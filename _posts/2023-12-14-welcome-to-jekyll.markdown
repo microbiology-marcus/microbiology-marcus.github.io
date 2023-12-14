@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why I'm leaving FAcebook, but now our friendship."
+title:  "Why I'm leaving Facebook, but now our friendship."
 date:   2020-06-06 16:20:44 -0500
 categories: personal now
 ---
