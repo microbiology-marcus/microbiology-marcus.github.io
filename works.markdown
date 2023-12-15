@@ -4,4 +4,4 @@ title: Works
 permalink: /works/
 ---
 
-Here's a collection of things I have written.
+One time I wrote a [pretty big thing](https://hdl.handle.net/10214/27429). I've also written some other things. Here's a collection of them.
