@@ -21,10 +21,10 @@
 title: Marcus E. Johnson
 email: microbiology.marcus@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A collection of some of my works.
+  MSc
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "microbiology-marcus.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  microbiology-marcus
+
 
 # Build settings
 theme: minima

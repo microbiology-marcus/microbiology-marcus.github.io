@@ -4,26 +4,20 @@ title:  "Why I'm leaving Facebook, but not our friendship."
 date:   2020-06-06 16:20:44 -0500
 categories: personal-note
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Dearest friends, family, colleagues and acquaintances,
 
-Jekyll requires blog post files to be named according to the following format:
+Over the past months, I’ve been battling with a tough concept as to the depth I allow Facebook access to my life. More and more, we hear about the negative effects of screen time and social media on mental health. As a result, I’ve been taking back more control over my digital life. I’ve been choosing to limit who I follow: on Instagram, to people and accounts I actively enjoy staying up to date on and hobbies whose innovators I enjoy following; on Twitter, limiting the negativity and enjoying the fun side of humanity and the fun jokes that come with internet culture. To these ends, I’ve had great success.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+Facebook, however, remains an outlier. You can try and limit its scope, but the unfortunate nature of their algorithm is that it pushes you further and further into specific trenches, encouraging outrage culture and sharing only things that generate clicks, engagement, and ultimately ad revenue. Further, this targeted content is not always benign; we are all too familiar with the Cambridge Analytica scandal and the Russian interference in the 2016 US presidential elections.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+This is to say nothing of their terrible privacy standards and data collection techniques that not only track you while you are on the website, but as well as anywhere else that might have enabled a “Share to Facebook” button. Facebook can track you as you browse the web even when you are not logged into their service, seeing which news agency you prefer, and which articles tickle your fancy. Ironically, this only goes to further serve the earlier point in that they can show you targeted content when you return.
 
-Jekyll also offers powerful support for code snippets:
+Ultimately, this brings me to my decision to leave Facebook. I’m doing so because I’d rather use that time to focus on myself, my relationships, and my mental health. I do not want anyone to take this as a sign that I am trying to distance myself – rather the opposite. I think that Facebook has done us a disservice in making us feel connected, but we are now ultimately more isolated and removed than ever before. Please, I encourage you to reach out, send me a message, give me a call and stay in touch.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+As a result, I will not delete Facebook but rather just log off. In fact, it is almost impossible to delete Facebook with it being the *de facto* group message service for work chats, classroom help, and social event organization. While I find the fact that Facebook has become engrained in our culture to such an extent an unfortunate reality, I will gladly continue to use it to stay in touch with everyone, to check my messages (on Messenger.com rather than on Facebook.com) and be happy to continue to respond to messages and the occasional event requests on the platform.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+With this, I encourage you all to stay healthy, stay sane, and stay in touch. Yours truly,
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Marcus Johnson
+
+![delete-facebook](/assets/goodbye-facebook.png)
