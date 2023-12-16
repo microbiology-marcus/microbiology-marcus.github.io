@@ -20,4 +20,4 @@ With this, I encourage you all to stay healthy, stay sane, and stay in touch. Yo
 
 Marcus Johnson
 
-![delete-facebook](/assets/goodbye-facebook.png)
+![delete-facebook](/assets/images/goodbye-facebook.png)
