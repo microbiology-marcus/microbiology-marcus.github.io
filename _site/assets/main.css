@@ -656,8 +656,9 @@ table td {
   font-family: "Caveat", cursive;
 }
 
+/*
 .site-title {
-  font-family: "Caveat", cursive;
+  font-family: 'Caveat', cursive;
   font-size: 40px;
   font-weight: 300;
   line-height: 54px;
@@ -666,6 +667,10 @@ table td {
   float: left;
   color: #960018;
   text-decoration: none;
+}
+*/
+.site-title {
+  color: #960018;
 }
 
 .site-title, .site-title:visited {
