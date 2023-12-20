@@ -15,4 +15,5 @@ If you're interested in learning more about my work or discussing potential oppo
 <p style="text-align: center; font-size: 40px;">
   <a href="https://www.linkedin.com/in/johnson-marcus/"><i class="fa-brands fa-linkedin"></i></a>
   <a href="https://www.twitter.com/Johnson_MarcusE"><i class="fa-brands fa-twitter"></i></a>
+  <a href="https://github.com/microbiology-marcus"><i class="fa-brands fa-github"></i></a>
 </p>
