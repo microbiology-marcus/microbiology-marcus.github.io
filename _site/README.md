@@ -1,3 +1,3 @@
-Hi. This is the code for my person website.
+Hi. This is the code for my personal website.
 
-You can visit it at [marcusj.ca](https://www.marcusj.ca/).
+You can visit it at [marcusjohnson.ca](https://www.marcusjohnson.ca/).

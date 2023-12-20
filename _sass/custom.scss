@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Caveat';
+    src: url('/assets/fonts/caveat-variablefont_wght.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  .caveat-font {
+    font-family: 'Caveat', cursive;
+  }
+
+  .site-title {
+    font-family: 'Caveat', cursive;
+    font-size: 40px;
+    font-weight: 300;
+    line-height: 54px;
+    letter-spacing: -1px;
+    margin-bottom: 0;
+    float: left;
+    color: #960018;
+    text-decoration: none;
+  }
+
+  .site-title, .site-title:visited {
+    color: #960018;
+  }
+
+  a {
+    color: #960018;
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: #cc0022;
+  }
+
+  a:visited {
+    color: #660011;
+  }

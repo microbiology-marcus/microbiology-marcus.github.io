@@ -17,7 +17,9 @@ permalink: /resume/
   width: 80%;
 }
 </style>
-## Experience
+You can find a copy of my CV [here<i class="fa-solid fa-file-pdf" style="padding-left: 0.25em; text-decoration: none;"></i>](/assets/docs/Marcus_Johnson_CV-2023.pdf).
+
+## Experience <i class="fa-solid fa-briefcase" style="color: #960018;"></i>
 
 <div class="row"><div class="column left">
   <p>2023 - present</p>
@@ -54,7 +56,7 @@ permalink: /resume/
   Maple Leaf Foods Inc, Mississauga ON</p>
 </div></div>
 
-## Education
+## Education <i class="fa-solid fa-graduation-cap" style="color: #960018;"></i>
 
 <div class="row"><div class="column left">
   <p>2020 - 2022</p>
@@ -70,7 +72,7 @@ permalink: /resume/
   University of Guelph, Guelph ON</p>
 </div></div>
 
-## Activities and volunteer work
+## Activities and volunteer work <i class="fa-solid fa-handshake-angle" style="color: #960018;"></i>
 
 <div class="row"><div class="column left">
   <p>2020 - present</p>

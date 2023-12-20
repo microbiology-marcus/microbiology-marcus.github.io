@@ -17,7 +17,7 @@ Ultimately, this brings me to my decision to leave Facebook. I’m doing so beca
 As a result, I will not delete Facebook but rather just log off. In fact, it is almost impossible to delete Facebook with it being the *de facto* group message service for work chats, classroom help, and social event organization. While I find the fact that Facebook has become engrained in our culture to such an extent an unfortunate reality, I will gladly continue to use it to stay in touch with everyone, to check my messages (on Messenger.com rather than on Facebook.com) and be happy to continue to respond to messages and the occasional event requests on the platform.
 
 With this, I encourage you all to stay healthy, stay sane, and stay in touch. Yours truly,
-
+<p class="caveat-font" style="font-size: 35px; color: #960018;">Marcus J</p>
 Marcus Johnson
 
 ![delete-facebook](/assets/images/goodbye-facebook.png)
