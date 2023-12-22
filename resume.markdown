@@ -72,7 +72,7 @@ You can find a copy of my CV [here<i class="fa-regular fa-file-pdf" style="paddi
   University of Guelph, Guelph ON</p>
 </div></div>
 
-## Activities & Volunteer <i class="fa-solid fa-handshake-angle" style="color: #960018;"></i>
+## Activities & Volunteering <i class="fa-solid fa-handshake-angle" style="color: #960018;"></i>
 
 <div class="row"><div class="column left">
   <p>2020 – present</p>
