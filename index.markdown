@@ -10,7 +10,7 @@ Currently, I work as a contractor in the field of soil toxicology, focusing on m
 
 During the summer, you'll often find me exploring hiking trails with my partner Narissa and our two dogs, Kingston and Charlie. When hockey season picks up, you will likely spot me at the rink.
 
-If you're interested in learning more about my work or discussing potential opportunities, feel free to reach out [via email](mailto:microbiology-marcus@gmail.com).
+If you're interested in learning more about my work or discussing potential opportunities, feel free to reach out [via email](mailto:microbiology.marcus@gmail.com).
 
 <p style="text-align: center; font-size: 40px;">
   <a href="https://www.linkedin.com/in/johnson-marcus/"><i class="fa-brands fa-linkedin"></i></a>
