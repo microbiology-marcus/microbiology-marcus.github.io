@@ -4,15 +4,12 @@ GEM
     addressable (2.8.6)
       public_suffix (>= 2.0.2, < 6.0)
     colorator (1.1.0)
-    commonjs (0.2.7)
     concurrent-ruby (1.2.2)
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
     ffi (1.16.3)
-    font-awesome-less (4.7.0)
-      less (>= 2.4.0)
     forwardable-extended (2.6.0)
     google-protobuf (3.25.1-x86_64-darwin)
     http_parser.rb (0.8.0)
@@ -36,6 +33,8 @@ GEM
       webrick (~> 1.7)
     jekyll-feed (0.17.0)
       jekyll (>= 3.7, < 5.0)
+    jekyll-redirect-from (0.16.0)
+      jekyll (>= 3.3, < 5.0)
     jekyll-sass-converter (3.0.0)
       sass-embedded (~> 1.54)
     jekyll-seo-tag (2.8.0)
@@ -46,8 +45,6 @@ GEM
       rexml
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
-    less (2.6.0)
-      commonjs (~> 0.2.7)
     liquid (4.0.4)
     listen (3.8.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
@@ -77,10 +74,10 @@ PLATFORMS
   x86_64-darwin-20
 
 DEPENDENCIES
-  font-awesome-less
   http_parser.rb (~> 0.6.0)
   jekyll (~> 4.3.2)
   jekyll-feed (~> 0.12)
+  jekyll-redirect-from
   minima (~> 2.5)
   tzinfo (>= 1, < 3)
   tzinfo-data

@@ -2,6 +2,8 @@
 layout: page
 title: Resume
 permalink: /resume/
+redirect_from:
+  - /cv
 ---
 <style>
 /* Create two unequal columns that floats next to each other */
@@ -89,7 +91,7 @@ You can find a copy of my CV [here<i class="fa-regular fa-file-pdf" style="paddi
 </div></div>
 
 <div class="row"><div class="column left">
-  <p>2018 – 2029</p>
+  <p>2018 – 2020</p>
 </div><div class="column right">
   <p><b>Coach and mentor</b><br>
   SkatABLE, Guelph ON</p>
