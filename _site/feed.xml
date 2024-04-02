@@ -1,4 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-01-07T16:11:14-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Marcus E. Johnson</title><subtitle>MSc</subtitle><entry><title type="html">Why I’m leaving Facebook, but not our friendship.</title><link href="http://localhost:4000/personal-note/2020/06/06/goodbye-facebook.html" rel="alternate" type="text/html" title="Why I’m leaving Facebook, but not our friendship." /><published>2020-06-06T17:20:44-04:00</published><updated>2020-06-06T17:20:44-04:00</updated><id>http://localhost:4000/personal-note/2020/06/06/goodbye-facebook</id><content type="html" xml:base="http://localhost:4000/personal-note/2020/06/06/goodbye-facebook.html"><![CDATA[<p>Dearest friends, family, colleagues and acquaintances,</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-04-02T18:52:23-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Marcus E. Johnson</title><subtitle>MSc</subtitle><entry><title type="html">The consequences of a playoff bye</title><link href="http://localhost:4000/posts/2024/01/19/the-consequences-of-a-playoff-bye.html" rel="alternate" type="text/html" title="The consequences of a playoff bye" /><published>2024-01-19T16:30:00-05:00</published><updated>2024-01-19T16:30:00-05:00</updated><id>http://localhost:4000/posts/2024/01/19/the-consequences-of-a-playoff-bye</id><content type="html" xml:base="http://localhost:4000/posts/2024/01/19/the-consequences-of-a-playoff-bye.html"><![CDATA[<p>Recently, a growing debate has emerged surrounding the number of playoff spots in the NHL. As the modern NHL features a growing number of teams vying for postseason contention, questions have surfaced regarding the adequacy of the current playoff structure.</p>
+
+<p>The number of teams in the NHL has increased from the Original Six teams in 1966–67 to 12 teams in 1967–68 and has had a steady pace of increase ever since. At 32 teams in 2022, since its original expansion, the NHL has seen a rate of about one new team every 2.7 years.</p>
+
+<p>As the league has continued to add new teams (most recently the Seattle Karken in the 2021–22 season), the number of playoff spots has remained the same since 1980,<small><sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup></small> thereby reducing the overall chance of teams clinching a postseason playoff birth.</p>
+
+<p><img src="/assets/images/plt.svg" alt="figure1" style="display:block; margin-left:auto; margin-right:auto" /></p>
+<h5 id="figure-1-the-number-of-nhl-teams-in-the-regular-season-and-playoffs-by-year">Figure 1: The number of NHL teams in the regular season and playoffs by year.</h5>
+
+<p>In fact, since the last time the league increased the number of playoff spots for the 1980 playoffs (when the number of playoff spots increased from 12 to today’s number of 16) there were 17 teams. Before that, in 1979, any given team had an approximate 70.6% chance of making the playoffs; today, an NHL team has a 50% chance of making the same spot.</p>
+
+<p>The percentage of teams who make the playoffs is at its all-time lowest, matched only twice before in the 1973 and 1974 playoffs.</p>
+
+<p><img src="/assets/images/plt2.svg" alt="figure2" style="display:block; margin-left:auto; margin-right:auto" /></p>
+<h5 id="figure-2-the-percentage-of-teams-who-make-the-playoffs-by-year">Figure 2: The percentage of teams who make the playoffs by year.</h5>
+
+<p>Currently, the NHL opperates on a 16-team playoffs. 16 is a nice, round, power-of-two number. As such, any team that makes the playoffs has to defeat the same number of opponents to win the Stanley Cup: no team gets a bye round, no team is required to play in a wild-card game.</p>
+
+<p>To maintain that same consistency, if the NHL wanted to expand the number of playoff spots, it would have to double from 16 to 32 teams. In other words, every NHL team would have a guarunteed playoff spot opening night if the NHL wanted teams to have an equal shot at the Cup from the first round of the playoffs.</p>
+
+<p>Alternatively, if the NHL wanted to maintain a competitive season with a cut-off for playoff participation, it will need to introduce a play-in, bye, or wildcard round to the playoffs. These go by different names and are implemented in various fashion in the other North American professional sports leagues but they are all the same at their core: <em>some teams get to skip the first round of the playoffs</em>.</p>
+
+<p>And any time a league introduces a playoff bye,</p>
+
+<h3 id="footnotes">Footnotes</h3>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>The NHL did increase the number of playoff spots temporarily for the 2020 playoffs in response to the COVID-19 pandemic. The number of playoff spots returned to pre-pandemic levels the following year. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>]]></content><author><name></name></author><category term="posts" /><summary type="html"><![CDATA[Recently, a growing debate has emerged surrounding the number of playoff spots in the NHL. As the modern NHL features a growing number of teams vying for postseason contention, questions have surfaced regarding the adequacy of the current playoff structure.]]></summary></entry><entry><title type="html">Why I’m leaving Facebook, but not our friendship.</title><link href="http://localhost:4000/personal-note/2020/06/06/goodbye-facebook.html" rel="alternate" type="text/html" title="Why I’m leaving Facebook, but not our friendship." /><published>2020-06-06T10:00:00-04:00</published><updated>2020-06-06T10:00:00-04:00</updated><id>http://localhost:4000/personal-note/2020/06/06/goodbye-facebook</id><content type="html" xml:base="http://localhost:4000/personal-note/2020/06/06/goodbye-facebook.html"><![CDATA[<p>Dearest friends, family, colleagues and acquaintances,</p>
 
 <p>Over the past months, I’ve been battling with a tough concept as to the depth I allow Facebook access to my life. More and more, we hear about the negative effects of screen time and social media on mental health. As a result, I’ve been taking back more control over my digital life. I’ve been choosing to limit who I follow: on Instagram, to people and accounts I actively enjoy staying up to date on and hobbies whose innovators I enjoy following; on Twitter, limiting the negativity and enjoying the fun side of humanity and the fun jokes that come with internet culture. To these ends, I’ve had great success.</p>
 
@@ -10,8 +42,7 @@
 
 <p>As a result, I will not delete Facebook but rather just log off. In fact, it is almost impossible to delete Facebook with it being the <em>de facto</em> group message service for work chats, classroom help, and social event organization. While I find the fact that Facebook has become engrained in our culture to such an extent an unfortunate reality, I will gladly continue to use it to stay in touch with everyone, to check my messages (on Messenger.com rather than on Facebook.com) and be happy to continue to respond to messages and the occasional event requests on the platform.</p>
 
-<p>With this, I encourage you all to stay healthy, stay sane, and stay in touch. Yours truly,
-<!-- <p class="caveat-font" style="font-size: 35px; color: #960018;">Marcus J</p> --></p>
+<p>With this, I encourage you all to stay healthy, stay sane, and stay in touch. Yours truly,</p>
 
 <p>Marcus Johnson</p>
 
