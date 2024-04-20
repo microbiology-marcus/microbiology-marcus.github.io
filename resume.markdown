@@ -21,7 +21,7 @@ redirect_from:
 </style>
 You can find a copy of my CV [here<i class="fa-regular fa-file-pdf" style="padding-left: 0.25em; text-decoration: none;"></i>](/assets/docs/Marcus_Johnson_CV-2023.pdf).
 
-## Experience <i class="fa-solid fa-briefcase" style="color: #960018;"></i>
+## Experience <i class="fa-solid fa-briefcase"></i>
 
 <div class="row"><div class="column left">
   <p>2023 – present</p>
@@ -58,7 +58,7 @@ You can find a copy of my CV [here<i class="fa-regular fa-file-pdf" style="paddi
   Maple Leaf Foods Inc, Mississauga ON</p>
 </div></div>
 
-## Education <i class="fa-solid fa-graduation-cap" style="color: #960018;"></i>
+## Education <i class="fa-solid fa-graduation-cap"></i>
 
 <div class="row"><div class="column left">
   <p>2020 – 2022</p>
@@ -74,7 +74,7 @@ You can find a copy of my CV [here<i class="fa-regular fa-file-pdf" style="paddi
   University of Guelph, Guelph ON</p>
 </div></div>
 
-## Activities & Volunteering <i class="fa-solid fa-handshake-angle" style="color: #960018;"></i>
+## Activities & Volunteering <i class="fa-solid fa-handshake-angle"></i>
 
 <div class="row"><div class="column left">
   <p>2020 – present</p>
