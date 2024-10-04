@@ -8,7 +8,7 @@ Recently, a growing debate has emerged surrounding the number of playoff spots i
 
 The number of teams in the NHL has increased from the Original Six teams in 1966&ndash;67 to 12 teams in 1967&ndash;68 and has had a steady pace of increase ever since. At 32 teams in 2022, since its original expansion, the NHL has seen a rate of about one new team every 2.7 years.
 
-As the league has continued to add new teams (most recently the Seattle Karken in the 2021&ndash;22 season), the number of playoff spots has remained the same since 1980,<small>[^1]</small> thereby reducing the overall chance of teams clinching a postseason playoff birth. 
+As the league has continued to add new teams (most recently the Seattle Karken in the 2021&ndash;22 season), the number of playoff spots has remained the same since 1980,[^1] thereby reducing the overall chance of teams clinching a postseason playoff birth. 
 
 ![figure1](/assets/images/plt.svg){:style="display:block; margin-left:auto; margin-right:auto"}
 ##### Figure 1: The number of NHL teams in the regular season and playoffs by year.
